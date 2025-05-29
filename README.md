@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a Junior student at UMBC (3rd year), studying comp sci with a focus on cybersecurity. Here you'll find all the projects I've worked on, personal and in school!
+I'm a rising senior student at UMBC, studying computer science with a focus on cybersecurity and data science. Here you'll find all the projects I've worked on, personal and in school!
 
 ## Socials
 
