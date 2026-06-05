@@ -4,7 +4,7 @@ I am a graduate of UMBC who majored in computer science with a focus on cybersec
 
 ## Socials
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anna-cx-franz/)
+🔗 [LinkedIn](https://www.linkedin.com/in/afranz-umbc/)
 
 ## Activity Log :)
 
