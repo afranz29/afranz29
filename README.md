@@ -2,6 +2,12 @@
 
 I am a graduate of UMBC who majored in computer science with a focus on cybersecurity and data science. Here you'll find all the projects I've worked on, personal and in school!
 
+## Socials
+
+🔗 [LinkedIn](https://www.linkedin.com/in/anna-cx-franz/)
+
+## Activity Log :)
+
 **Spring 2026** <br />
 I graduated! Now I am focused on preparing for the next steps in my career. I'm learning about defensive and offensive security tools, as well as practicing with using AI to aid me in my work. I hope to land an internship or entry level job!
 
@@ -15,10 +21,8 @@ On the side, I've been working on a Discord Bot for UMBC's Pokémon Go server. T
 I interned at Alyssum Global Services, working remotely on an upcoming project! 
 On the side, I'm gradually developing a Minecraft Mod for 1.20.1 (simply because I couldn't find one that I wanted) (under my username PandaBear29!).
 
-## Socials
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anna-cx-franz/)
-
-
+<br />
+<br />
 
 _Last Updated: 6/4/2026_
