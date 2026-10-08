@@ -8,6 +8,9 @@ I am a graduate of UMBC who majored in computer science with a focus on cybersec
 
 ## Activity Log :)
 
+**Fall 2026** <br />
+I've built up my LinkedIn profile, gone to a few conferences, and continue my job hunt! I've also been developing Discord bots and doing adminstration work for a 70k member Discord server.
+
 **Spring 2026** <br />
 I graduated! Now I am focused on preparing for the next steps in my career. I'm learning about defensive and offensive security tools, as well as practicing with using AI to aid me in my work. I hope to land an internship or entry level job!
 
